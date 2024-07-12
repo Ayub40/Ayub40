@@ -1,23 +1,8 @@
-## Hi there 👋 
-
-
-**Ayub40/Ayub40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<h1 align="center">Hi 👋, I'm Ayub Khan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="">
 - 💬 Ask me about **MERN**
+<h1 align="center">Hi 👋, I'm Ayub Khan</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 - 📫 How to reach me **ayubk4028@gmail.com**
 
