@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ayub Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="">
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ayubk4028@gmail.com**
