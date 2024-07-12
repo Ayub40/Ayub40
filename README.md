@@ -1,9 +1,11 @@
-<img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="">
-- 💬 Ask me about **MERN**
+<div align="center">
+    <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="Centered Image">
+</div>
+
 <h1 align="center">Hi 👋, I'm Ayub Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-
+- 💬 Ask me about **MERN**
 - 📫 How to reach me **ayubk4028@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
