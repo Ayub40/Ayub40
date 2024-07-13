@@ -23,10 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayub40&show_icons=true&locale=en" alt="ayub40" /></p>
 
-![Ayub40's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayub40&theme=merko&show_icons=true&hide_border=false&layout=compact)
-
-![Ayub40's Stats](https://github-readme-stats.vercel.app/api?username=Ayub40&theme=merko&show_icons=true&hide_border=false&count_private=true)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayub40&" alt="ayub40" /></p>
 
 
