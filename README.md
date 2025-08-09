@@ -65,6 +65,8 @@
 ---
 
 ### 📊 GitHub Stats  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayub40&show_icons=true&locale=en&layout=compact" alt="ayub40" /></p>
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayub40&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
