@@ -15,7 +15,7 @@
 ---
 
 ### 💡 About Me  
-- 💬 Ask me about **MERN Stack, PostgreSQL, and TypeScript**  
+- 💬 Ask me about **MERN Stack**  
 - 📫 Reach me at: **ayubk4028@gmail.com**  
 - 🌱 Currently learning **Advanced System Design & Cloud Deployment**  
 - 🎯 Goal: **Build high-performance, scalable applications**  
@@ -66,7 +66,7 @@
 
 ### 📊 GitHub Stats  
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayub40&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayub40&show_icons=true&locale=en&layout=compact" alt="ayub40" />
 </p>
 
 <p>
