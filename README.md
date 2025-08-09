@@ -68,10 +68,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayub40&show_icons=true&locale=en&layout=compact" alt="ayub40" /></p>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayub40&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayub40&show_icons=true&locale=en" alt="ayub40" /></p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayub40&theme=tokyonight" alt="GitHub streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayub40&" alt="ayub40" /></p>
