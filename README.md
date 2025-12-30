@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="Centered Image">
+    <img src="https://www.canva.com/design/DAG8_MXFVrA/sDJ5BF5R0w_ySsmpxL3RCg/edit?utm_content=DAG8_MXFVrA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Centered Image">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ayub Khan</h1>
