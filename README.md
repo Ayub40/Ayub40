@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.ibb.co.com/KxtZfzFP/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png" alt="Centered Image">
+    <img src="https://i.ibb.co.com/TMwcCdhZ/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner-1.jpg" alt="Centered Image">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ayub Khan</h1>
