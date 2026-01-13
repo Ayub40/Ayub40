@@ -2,8 +2,8 @@
     <img src="https://i.ibb.co.com/TMwcCdhZ/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner-1.jpg" alt="Centered Image">
 </div>
 
-<h1 align="center">Hi 👋, I'm Ayub Khan</h1>
-<h3 align="center">🚀 Passionate Frontend & Full-Stack Developer from Bangladesh</h3>
+<h1 align="center">Hi, I'm Ayub Khan</h1>
+<h3 align="center"> Passionate Frontend & Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ayub40&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -14,7 +14,7 @@
 
 ---
 
-### 💡 About Me  
+### About Me  
 - 💬 Ask me about **MERN Stack**  
 - 📫 Reach me at: **ayubk4028@gmail.com**  
 - 🌱 Currently learning **Advanced System Design & Cloud Deployment**  
@@ -22,7 +22,7 @@
 
 ---
 
-### 🌐 Connect With Me  
+### Connect With Me  
 <p align="left">
     <a href="mailto:ayubk4028@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/ayub-khan-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Skills Overview  
+## Skills Overview  
 
 | Category | Technologies |
 | :--- | :--- |
@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayub40&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
