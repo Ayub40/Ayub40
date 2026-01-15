@@ -1,14 +1,20 @@
 <div align="center">
-    <img src="https://i.ibb.co.com/TMwcCdhZ/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner-1.jpg" alt="Centered Image">
+  <img src="https://i.ibb.co/TMwcCdhZ/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner-1.jpg" 
+       alt="Centered Image" 
+       style="max-width:100%; height:auto;" />
 </div>
 
 <h1 align="center">Hi, I'm Ayub Khan</h1>
-<h3 align="center"> Passionate Frontend & Full-Stack Developer from Bangladesh</h3>
+<h3 align="center">Passionate Frontend & Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ayub40&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ayub40&label=Profile%20Views&color=0e75b6&style=flat" 
+         alt="profile views" 
+         style="max-width:100%; height:auto;" />
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ayub40&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ayub40&theme=onedark&margin-w=10&margin-h=10" 
+             alt="GitHub Trophies" 
+             style="max-width:100%; height:auto;" />
     </a>
 </p>
 
@@ -24,9 +30,18 @@
 
 ### Connect With Me  
 <p align="left">
-    <a href="mailto:ayubk4028@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/ayub-khan-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/ayub40"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:ayubk4028@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+           style="max-width:100%; height:auto;" />
+    </a>
+    <a href="https://www.linkedin.com/in/ayub-khan-dev/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+           style="max-width:100%; height:auto;" />
+    </a>
+    <a href="https://github.com/ayub40">
+      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" 
+           style="max-width:100%; height:auto;" />
+    </a>
 </p>
 
 ---
@@ -40,19 +55,24 @@
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
-
 ---
 
 ### GitHub Stats  
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayub40&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayub40&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
+         style="max-width:100%; height:auto;" 
+         alt="top languages" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayub40&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayub40&show_icons=true&locale=en&theme=tokyonight" 
+         style="max-width:100%; height:auto;" 
+         alt="GitHub stats" />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayub40&theme=tokyonight" alt="GitHub streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayub40&theme=tokyonight" 
+         style="max-width:100%; height:auto;" 
+         alt="GitHub streak" />
 </p>
